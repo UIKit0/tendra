@@ -1,2 +1,2 @@
-This repository is just to hold Github issues.
+This repository is just to hold issues on Github.
 
